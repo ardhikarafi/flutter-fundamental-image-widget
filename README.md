@@ -1,4 +1,5 @@
-# widget_image
+# Fundamental Flutter by ArdhikaRafi
+# Widget_image
 
 A new Flutter project.
 
